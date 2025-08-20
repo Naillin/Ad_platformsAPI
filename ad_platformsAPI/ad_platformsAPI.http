@@ -1,0 +1,9 @@
+@ad_platformsAPI_HostAddress = http://localhost:5146
+
+POST {{ad_platformsAPI_HostAddress}}/load-data/
+Accept: application/json
+
+GET {{ad_platformsAPI_HostAddress}}/by-location/
+Accept: application/json
+
+###
