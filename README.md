@@ -1,1 +1,2 @@
-# Ad_platformsAPI
+# Тестовое задание Effective Mobile
+
